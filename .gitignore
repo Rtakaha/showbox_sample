@@ -1,0 +1,6 @@
+.DS_Store
+spreadsheet-logger/node_modules/
+*/credentials.json
+*/token.json
+*/node_modules/
+*/assets/
